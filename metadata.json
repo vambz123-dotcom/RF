@@ -1,0 +1,6 @@
+{
+  "name": "V-Finger",
+  "description": "Simulator and manager for free Cloud Phones and game AFK farming. Deploy virtual phones, auto-tapper presets, configure AFK days, and run local dimming wake-locks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
